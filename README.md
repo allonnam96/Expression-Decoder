@@ -1,4 +1,4 @@
-![model_decoder_happy](https://github.com/allonnam96/Expression-Decoder/assets/114129151/54327d16-7b77-4910-97ce-1a210cf0e967)# Expression Decoder
+# Expression Decoder
 
 
 ## Overview
@@ -20,7 +20,7 @@ Expression Decoder is an advanced Machine Learning model written in Python that 
 ## Technologies
 + Languages: Python
 + Frameworks: Jupyter NoteBook
-+ Libraries/APIs: MediaPipe
++ Libraries/APIs: MediaPipe, scikit-learn, csv, NumPy, pandas
 
 
 ## Future Prospects
